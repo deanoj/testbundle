@@ -1,0 +1,30 @@
+{
+    "name" : "deanoj/testbundle",
+    "description" : "A test bundle",
+    "type" : "symfony-bundle",
+    "authors" : [{
+        "name" : "deanoj",
+        "email" : "deanoj@deanoj.com"
+    }],
+    "keywords" : [
+        "deanoj test bundle"
+    ],
+    "license" : [
+        "MIT"
+    ],
+    "require" : {
+    },
+    "autoload" : {
+        "psr-0" : {
+            "Deanoj\\TestBundle" : ""
+        }
+    },
+    "target-dir" : "Deanoj/TestBundle",
+    "repositories" : [{
+    }],
+    "extra" : {
+        "branch-alias" : {
+            "dev-master" : "2.2-dev"
+        }
+    }
+}
