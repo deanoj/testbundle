@@ -2,6 +2,7 @@
     <testsuites>
         <testsuite name="DeanojTestBundle">
             <directory suffix="Test.php">./Tests</directory>
+
         </testsuite>
     </testsuites>
 
