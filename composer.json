@@ -22,8 +22,6 @@
         }
     },
     "target-dir" : "Deanoj/TestBundle",
-    "repositories" : [{
-    }],
     "extra" : {
         "branch-alias" : {
             "dev-master" : "2.2-dev"
